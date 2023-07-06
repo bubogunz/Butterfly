@@ -1,2 +1,2 @@
 # Butterfly
-Custom CI/CD notification managing software
+Custom CI/CD notification managing Kafka-based software for @imolainformatica

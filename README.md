@@ -6,3 +6,5 @@ Technologies used:
 - Java 11
 - MongoDB
 - Docker
+- HTML5
+- CSS
